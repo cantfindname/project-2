@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "Which indie game was developed by Studio MDHR and features a 1930s cartoon art style?",
+      "answers": ["Stardew Valley", "Hollow Knight", "Cuphead", "Celeste"],
+      "correct_answer": "Cuphead"
+    },
+    {
+      "question": "In which indie game can you explore an underwater world filled with unique creatures and mysteries?",
+      "answers": ["Limbo", "Subnautica", "Super Meat Boy", "Fez"],
+      "correct_answer": "Subnautica"
+    },
+    {
+      "question": "Which indie game is known for its challenging platforming gameplay and a protagonist named Madeline?",
+      "answers": ["Stardew Valley", "Hollow Knight", "Celeste", "Undertale"],
+      "correct_answer": "Celeste"
+    },
+    {
+      "question": "In this indie game, you play as a farmer and can raise animals, grow crops, and build relationships with the townspeople:",
+      "answers": ["Stardew Valley", "Subnautica", "Hollow Knight", "Fez"],
+      "correct_answer": "Stardew Valley"
+    }
+  ]
+}
