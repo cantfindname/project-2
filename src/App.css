@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* This makes the container take the full height of the viewport */
+}
+
+.indie-question {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 80%;
+  margin-left: 10em;
+  max-width: 1000px;
+}
+
+.indie-question h2 {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.indie-question form {
+  margin-top: 10px;
+}
+
+.indie-question label {
+  margin-bottom: 10px;
+}
+
+.indie-question input[type="radio"] {
+  margin-right: 5px;
+}
+
+.banner {
+  text-align: center;
+  padding: 20px;
+}
+
+.banner h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.banner p {
+  font-size: 18px;
+}

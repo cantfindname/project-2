@@ -31,7 +31,7 @@ const Question = () => {
   };
 
   return (
-    <div>
+    <div className="container">
       <div className="indie-question">
         {score !== null ? (
           <div>

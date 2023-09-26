@@ -1,24 +1,89 @@
 {
   "questions": [
     {
-      "question": "Which indie game was developed by Studio MDHR and features a 1930s cartoon art style?",
-      "answers": ["Stardew Valley", "Hollow Knight", "Cuphead", "Celeste"],
-      "correct_answer": "Cuphead"
+      "question": "In this indie game, you control a young girl named Six as she tries to escape a mysterious underwater resort filled with grotesque creatures:",
+      "answers": [
+        "Little Nightmares",
+        "Resident Evil 7",
+        "Bioshock Infinite",
+        "Outlast"
+      ],
+      "correct_answer": "Little Nightmares"
     },
     {
-      "question": "In which indie game can you explore an underwater world filled with unique creatures and mysteries?",
-      "answers": ["Limbo", "Subnautica", "Super Meat Boy", "Fez"],
-      "correct_answer": "Subnautica"
+      "question": "Which indie game is a psychological horror title where you explore a dilapidated insane asylum while trying to uncover its dark secrets?",
+      "answers": [
+        "Amnesia: A Machine for Pigs",
+        "SOMA",
+        "Alien: Isolation",
+        "Dead Space"
+      ],
+      "correct_answer": "Amnesia: A Machine for Pigs"
     },
     {
-      "question": "Which indie game is known for its challenging platforming gameplay and a protagonist named Madeline?",
-      "answers": ["Stardew Valley", "Hollow Knight", "Celeste", "Undertale"],
-      "correct_answer": "Celeste"
+      "question": "This indie game features a protagonist named Quote who explores a labyrinthine cave filled with strange creatures and powerful weaponry:",
+      "answers": ["Undertale", "Cave Story", "Hyper Light Drifter", "Oxenfree"],
+      "correct_answer": "Cave Story"
     },
     {
-      "question": "In this indie game, you play as a farmer and can raise animals, grow crops, and build relationships with the townspeople:",
-      "answers": ["Stardew Valley", "Subnautica", "Hollow Knight", "Fez"],
-      "correct_answer": "Stardew Valley"
+      "question": "In which indie game do you play as a sentient piece of bread on a quest to become toast while navigating various household obstacles?",
+      "answers": [
+        "Surgeon Simulator",
+        "I Am Bread",
+        "Octodad: Dadliest Catch",
+        "Goat Simulator"
+      ],
+      "correct_answer": "I Am Bread"
+    },
+    {
+      "question": "This indie game combines rhythm-based gameplay with a touching narrative about a young girl named Kate and her journey through a fantastical world:",
+      "answers": [
+        "Crypt of the NecroDancer",
+        "Hades",
+        "Dead Cells",
+        "Oxenfree"
+      ],
+      "correct_answer": "Crypt of the NecroDancer"
+    },
+    {
+      "question": "Which indie game is known for its charming hand-drawn art style and features a fox-like creature named Ori on a quest to save the forest?",
+      "answers": [
+        "Hollow Knight",
+        "Ori and the Blind Forest",
+        "Bastion",
+        "Transistor"
+      ],
+      "correct_answer": "Ori and the Blind Forest"
+    },
+    {
+      "question": "In this indie game, you play as a young boy named Isaac who ventures into his basement to escape his abusive mother, encountering grotesque monsters and dark themes:",
+      "answers": [
+        "Stardew Valley",
+        "The Binding of Isaac",
+        "Don't Starve",
+        "Terraria"
+      ],
+      "correct_answer": "The Binding of Isaac"
+    },
+    {
+      "question": "Which indie game is a narrative-driven adventure game set in 1980s Sweden, where you uncover the mysteries of a small rural town?",
+      "answers": [
+        "Firewatch",
+        "Night in the Woods",
+        "The Vanishing of Ethan Carter",
+        "Kona"
+      ],
+      "correct_answer": "Kona"
+    },
+    {
+      "question": "In this indie game, you control a group of survivors in a post-apocalyptic world infested with zombies and must make difficult moral choices:",
+      "answers": ["This War of Mine", "Left 4 Dead", "State of Decay", "DayZ"],
+      "correct_answer": "This War of Mine"
+    },
+    {
+      "question": "Which indie game is a roguelike action-adventure where you play as a necromancer raising the dead to fight for you?",
+      "answers": ["Necropolis", "Moonlighter", "Skullgirls", "Dead Cells"],
+      "correct_answer": "Necropolis"
     }
   ]
 }
